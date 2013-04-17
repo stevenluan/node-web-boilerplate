@@ -1,0 +1,8 @@
+{
+	"server": {
+		"port" : "8080",
+		"ecvPath" : "/admin/ecv",
+		"ecvControl" : true,
+		"monPort" : 3002
+	}
+}

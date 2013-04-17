@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="layout" content="main" />
+	<title>eBay</title>
+</head>
+<body>
+	<div class="page">
+		<h3>Say hello to {name}!</h3>	
+	</div>
+	
+</body></html>

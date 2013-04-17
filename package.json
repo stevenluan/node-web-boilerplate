@@ -1,0 +1,24 @@
+{
+    "name": "node-web-boilerplate",
+    "description": "the default node web boilerplate using express and cluster module",
+    "version": "0.0.1",
+    "author": "hluan",
+    "main" : "./app.js",
+    "dependencies": {
+        "express":"",
+        "underscore":"",
+        "path":"",
+        "consolidate":"",
+        "dustjs-linkedin":"",
+        "methods":"",
+        "cluster2":"",
+        "config":""
+    },
+    "engines": {
+    	"node": ">=0.8.0"
+	},
+    "devDependencies": {
+        "should":"",
+        "request":""
+    }
+}
